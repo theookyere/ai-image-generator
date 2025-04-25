@@ -1,0 +1,9 @@
+name: ai-image-generator
+nextjs:
+    packageManager: npm
+    path: .
+    scripts:
+        deploy:
+            - npm install
+region: eu-west-1
+yamlVersion: 2
